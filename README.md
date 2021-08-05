@@ -1,3 +1,6 @@
+[![GoDoc](https://godoc.org/github.com/mjwaxios/axiospam?status.svg)](https://godoc.org/github.com/mjwaxios/axiospam)
+[![Go Report Card](https://goreportcard.com/badge/github.com/mjwaxios/axiospam)](https://goreportcard.com/report/github.com/mjwaxios/axiospam)
+
 # getCertExpiry
 ## Overview
 getCertExpiry is a go command line tool to find the expiration dates of given server certs and check if they are expired
