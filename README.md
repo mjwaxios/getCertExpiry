@@ -1,5 +1,5 @@
-[![GoDoc](https://godoc.org/github.com/mjwaxios/getCrtExpiry?status.svg)](https://godoc.org/github.com/mjwaxios/getCrtExpiry)
-[![Go Report Card](https://goreportcard.com/badge/github.com/mjwaxios/getCrtExpiry)](https://goreportcard.com/report/github.com/mjwaxios/getCrtExpiry)
+[![GoDoc](https://godoc.org/github.com/mjwaxios/getCertExpiry?status.svg)](https://godoc.org/github.com/mjwaxios/getCertExpiry)
+[![Go Report Card](https://goreportcard.com/badge/github.com/mjwaxios/getCertExpiry)](https://goreportcard.com/report/github.com/mjwaxios/getCertExpiry)
 
 # getCertExpiry
 ## Overview
